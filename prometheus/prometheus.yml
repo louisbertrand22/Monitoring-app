@@ -26,6 +26,7 @@ scrape_configs:
           - https://flashcards.lucho-dev.xyz
           - https://f1dashboard.lucho-dev.xyz
           - https://my-app.lucho-dev.xyz
+          - https://chicken-stude.lucho-dev.xyz/
     relabel_configs:
       - source_labels: [__address__]
         target_label: __param_target
@@ -45,6 +46,7 @@ scrape_configs:
           - https://flashcards.lucho-dev.xyz
           - https://f1dashboard.lucho-dev.xyz
           - https://my-app.lucho-dev.xyz
+          - https://chicken-stude.lucho-dev.xyz/
     relabel_configs:
       - source_labels: [__address__]
         target_label: __param_target
