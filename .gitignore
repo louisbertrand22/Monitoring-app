@@ -1,0 +1,10 @@
+# Docker volumes
+prometheus_data/
+grafana_data/
+
+# Docker
+.env
+
+# Temporary files
+*.tmp
+*.log
