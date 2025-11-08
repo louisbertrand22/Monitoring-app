@@ -9,6 +9,7 @@ This monitoring stack tracks the following applications:
 - 📚 **Flashcards**: https://flashcards.lucho-dev.xyz
 - 🏎️ **F1 Dashboard**: https://f1dashboard.lucho-dev.xyz
 - 🚀 **My App**: https://my-app.lucho-dev.xyz
+- **ChickenStude** https://chicken-stude.lucho-dev.xyz/
 
 ## Stack Components
 
